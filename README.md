@@ -14,3 +14,8 @@ Enter number: 32
 Enter number: 40
 Over 4 million
 ```
+
+Question 6
+```
+The sum square difference of the first 100 natural numbers is 2.516415E7
+```
